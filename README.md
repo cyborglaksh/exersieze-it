@@ -1,4 +1,4 @@
-# Exercise-It: Your Personal Workout Buddy App 🏋️‍♂️💪
+# Exerciese-It: Your Personal Workout Buddy App 🏋️‍♂️💪
 
 Welcome to **Exercise-It**, the ultimate workout companion! 🚀
 
