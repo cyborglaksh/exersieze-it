@@ -1,6 +1,6 @@
-# Exerciese-It: Your Personal Workout Buddy App 🏋️‍♂️💪
+# Exersieze-It: Your Personal Workout Buddy App 🏋️‍♂️💪
 
-Welcome to **Exercise-It**, the ultimate workout companion! 🚀
+Welcome to **Exersieze-It**, the ultimate workout companion! 🚀
 
 ## Project Overview
 
@@ -15,13 +15,13 @@ Welcome to **Exercise-It**, the ultimate workout companion! 🚀
 
 ## Motivation
 
-Building Exercise-It serves as a hands-on project to dive deep into the world of React development. 🤓💻
+Building Exersieze-It serves as a hands-on project to dive deep into the world of React development. 🤓💻
 
 ## Technologies Used
 
 - React
 - Express
 
-Stay tuned for exciting updates as we sculpt Exercise-It into the ultimate fitness ally! 💼🏆
+Stay tuned for exciting updates as we sculpt Exersieze-It into the ultimate fitness ally! 💼🏆
 
 *Note: This project is a continuous learning experience, and your feedback is highly appreciated.* 🌟
